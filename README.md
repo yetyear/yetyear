@@ -1,3 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Yetyear's GitHub stats](https://github-readme-stats.vercel.app/api?username=yetyear&show_icons=true&theme=radical)
